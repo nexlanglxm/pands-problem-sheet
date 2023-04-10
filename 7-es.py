@@ -12,9 +12,7 @@ else:
 with open(FILENAME, 'rt') as f:
     # read all lines in a list
     lines = f.read()
-    for line in lines:
-        # check if letter is present on a current line
-        if line.find(letter) != -1:
-            print(letter, ' exists in file')
+    if line.find(letter) != -1:
+            print(letter, 'exists in file')
 
-print(FILENAME.count("e"))
+print(FILENAME.count(letter))
