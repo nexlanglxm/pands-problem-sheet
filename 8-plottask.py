@@ -15,6 +15,7 @@ plt.hist(x, color="c")
 plt.show()
 
 xpoints = np.array(range(0,10))
-ypoints = xpoints*xpoints*xpoints
-plt.plot(xpoints, ypoints, label="plot of the function", color="m")
+#h(x) = x(cubed)
+h = xpoints * xpoints * xpoints
+plt.plot(xpoints, h, label="plot of the function", color="m")
 plt.show()
