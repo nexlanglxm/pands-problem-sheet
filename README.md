@@ -1,5 +1,5 @@
 
-This repository was created for usage in the Programming and Scripting module from the Higher Diploma in Data Analytics course from ATU Galway.
+This repository was created for usage in the Programming and Scripting module from the Higher Diploma in Data Analytics course in ATU Galway.
 
 ---
 
