@@ -3,7 +3,7 @@ This repository was created for usage in the Programming and Scripting module fr
 Author: Neil Anglim
 ---
 
-# Weekly tasks
+
 ## Hello world
 This first program is to simply show that we can create a simple program and run it.
 It was also to create our GitHub accounts and inspire us to do our initial commits.
@@ -39,10 +39,12 @@ My maths being a bit rusty, I tried different methods to get this to work, but I
 ## E's
 This was a very difficult task as I found the coding relating to calling files and using os quite confusig at the beginning. 
 
-The code calls in the os module to check if there is a file in place with the same name, and then it reads through the lines to see the number of 'e' characters which are in the file, then reads this back to the user
+The code calls in the os module to check if there is a file in place with the same name, and then it reads through the lines to see the number of 'e' characters which are in the file, then reads this back to the user.
+
 ## Plottask
 (https://www.tutorialspoint.com/matlab/matlab_plotting.htm)
 This task required a lot of learning and recalling of things I had not explored for a long time(math and graphs). But once it was working it was very rewarding.
 
-The histogram reads from the random.normal distribution and then displays when called in using the plt.show()
+The histogram reads from the random.normal distribution and then displays when called in using the plt.show().
+
 And then in the second part of the code the function is plotted using the numpy array method and call in using the same function as the histogram
