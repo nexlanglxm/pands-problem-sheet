@@ -14,7 +14,6 @@ number = int(input("Please type in your number : "))
 while (number == 1):
     print("This will not work when the number is equal to 1")
     quit()
-
 #the other
 print("The Collatz sequence for the number you entered : ")
 print(number)
