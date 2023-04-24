@@ -26,7 +26,7 @@ If the remainder is not zero, program performs the elif statement - multiplying 
 I found this quite confusing at the beginning, but cracked the case using help from [this YouTube video](https://www.youtube.com/watch?v=lAp_5qTdOhM).
 
 ## Weekday
-
+In this program I make use of the datetime and calendar modules
 
 ## Squareroot
 
@@ -36,4 +36,4 @@ I found this quite confusing at the beginning, but cracked the case using help f
 
 ## Plottask
 
-[the file which saved me] (https://www.tutorialspoint.com/matlab/matlab_plotting.htm)
+[the file which saved me](https://www.tutorialspoint.com/matlab/matlab_plotting.htm)
